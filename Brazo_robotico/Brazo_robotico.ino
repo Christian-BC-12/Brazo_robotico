@@ -1,4 +1,4 @@
-
+//https://youtube.com/shorts/QAZSGPUu8aU video de proyecto funcionando 
 #include <ESP32Servo.h>
 int potvalue = 0;
 int potvalue2 = 0;
